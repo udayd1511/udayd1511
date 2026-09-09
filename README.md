@@ -118,13 +118,6 @@ An automated reconnaissance and vulnerability scanning toolkit for bug bounty an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayd1511&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayd1511&layout=compact&theme=dark&hide_border=true" width="42%" />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">

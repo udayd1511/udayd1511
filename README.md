@@ -97,10 +97,9 @@ Penetration Testing, Vulnerability Research, and Security Automation.**
 
 ## 🚀 Featured Projects
 
-### 🔍 SVGSiteSweep
+### 🔍 SiteSweep
 
-Automated reconnaissance and security analysis tool for discovering
-interesting SVG-related attack surfaces and website information.
+An automated reconnaissance and vulnerability scanning toolkit for bug bounty and authorized security testing.
 
 ➡️ Check out my repositories for more security projects.
 

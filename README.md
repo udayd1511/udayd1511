@@ -21,7 +21,6 @@ Penetration Testing, Vulnerability Research, and Security Automation.**
 - 🧪 Interested in real-world vulnerability research
 - 📚 Constantly learning offensive security
 
----
 
 ---
 

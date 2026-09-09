@@ -133,16 +133,6 @@ An automated reconnaissance and vulnerability scanning toolkit for bug bounty an
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayd1511&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    width="50%"
-  />
-</p>
-
----
 
 ## 🌐 Connect With Me
 

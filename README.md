@@ -23,6 +23,48 @@ Penetration Testing, Vulnerability Research, and Security Automation.**
 
 ---
 
+---
+
+## 🐞 Bug Bounty & Security Research
+
+### 🏆 Com Olho Security Researcher
+
+<a href="https://cyber.comolho.com/researcher/profile/udaydixit">
+  <img src="https://img.shields.io/badge/Com%20Olho-Researcher-00AEEF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</a>
+
+| Achievement | Stats |
+|---|---:|
+| 🌎 Global Rank | **#12** |
+| 🏅 Ranking | **Top 1%** |
+| 📊 Submissions | **275** |
+| ✅ Acceptance Ratio | **76.21%** |
+| 🎯 Hacking Level | **Intermediate** |
+
+**Security Research Focus**
+
+- 🔐 Authentication & Authorization
+- 🚦 Rate Limiting
+- 🔑 Broken Authentication
+- 🌐 API Security
+- 🛡️ Broken Access Control
+- 💉 SQL Injection
+- 🔥 Security Misconfiguration
+- 📂 Sensitive Data Exposure
+- ⚡ Denial of Service
+- 🔎 Hardcoded Credentials
+
+### 🏅 Security Achievements
+
+`Novice Explorer` `Diligent Debugger` `Security Sentinel`
+
+`Diligent Debugger 2` `Challenge Champion` `CTF Conqueror`
+
+### 🔗 Researcher Profile
+
+👉 **[View my Com Olho Security Researcher Profile](https://cyber.comolho.com/researcher/profile/udaydixit)**
+
+
 ## 🎯 Areas of Expertise
 
 ![Web Security](https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=googlechrome&logoColor=white)
